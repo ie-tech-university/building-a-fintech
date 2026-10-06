@@ -11,7 +11,7 @@ The ultimate goal is to build a fully functional Fintech application (such as a 
 
 The course emphasizes an *API-First* architecture, strictly separating the transactional engine (Backend) from the user interface (Frontend), replicating current banking industry standards.
 
-![Fintech System Architecture](assets/fintech_architecture_hq.jpeg)
+![Fintech System Architecture](fintech_architecture_hq.jpeg)
 
 ### Tech Stack
 *   **Backend (Core Banking):** FastAPI, Pydantic, Asynchronous Python.
@@ -25,7 +25,7 @@ The course emphasizes an *API-First* architecture, strictly separating the trans
 
 ## Syllabus: 15 High-Impact Sessions
 
-![Course Roadmap](assets/course_roadmap_hq.jpeg)
+![Course Roadmap](course_roadmap_hq.jpeg)
 
 ### Module 1: Engineering Foundations & Architecture (Classes 1-3)
 *The goal is to lay the foundations of professional Python development and design the financial data model while adhering to ACID properties.*
