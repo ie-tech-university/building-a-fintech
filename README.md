@@ -94,7 +94,7 @@ The course emphasizes an *API-First* architecture, strictly separating the trans
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 *   Solid understanding of Python Basics (variables, loops, functions, dictionaries).
 *   Basic knowledge of Pandas and data structures.
 *   Basic knowledge the command-line interface (CLI).
